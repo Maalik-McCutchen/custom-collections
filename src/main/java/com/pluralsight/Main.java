@@ -1,4 +1,4 @@
-package com.pluralsight.collection;
+package com.pluralsight;
 
 public class Main {
 }
